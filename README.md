@@ -62,10 +62,10 @@ It was created as part of my **Business Analytics with Excel** capstone project,
 ---
 
 ### 📈 Dashboard Preview
-*(Add screenshots here after upload)*  
-Example:  
-`assets/dashboard-main.png`  
-`assets/charts-view.png`
+
+![Excel Dashboard](assets/dashboard-main.png)
+  
+![Charts View](assets/charts-view.png)
 
 ---
 
