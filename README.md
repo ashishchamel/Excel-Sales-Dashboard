@@ -105,9 +105,8 @@ Excel-Sales-Dashboard/
 ├── project-01-COMPLETE-DASHBOARD-ASHISH.xlsb
 ├── 1706207054_01_ecommerce_dashboard_problem_statement.pdf
 ├── assets/
-│   ├── dashboard-main.png
-│   └── charts-view.png
+│ ├── dashboard-main.png
+│ └── charts-view.png
 ├── LICENSE
 └── README.md
-
 
