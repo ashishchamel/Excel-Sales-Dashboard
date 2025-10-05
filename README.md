@@ -99,7 +99,6 @@ No proprietary or confidential business data is published.
 
 ---
 ### 📂 Repository Structure
-### 📂 Repository Structure
 
 ```
 Excel-Sales-Dashboard/
