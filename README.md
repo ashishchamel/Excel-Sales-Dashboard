@@ -61,7 +61,6 @@ It was created as part of my **Business Analytics with Excel** capstone project,
 
 ---
 
-### 📈 Dashboard Preview
 
 ### 📈 Dashboard Preview
 
@@ -101,3 +100,5 @@ No proprietary or confidential business data is published.
 ---
 
 ### 📂 Repository Structure
+
+
