@@ -63,8 +63,18 @@ It was created as part of my **Business Analytics with Excel** capstone project,
 
 ### 📈 Dashboard Preview
 
-![Excel Dashboard](assets/dashboard-main.png)
-![Charts View](assets/charts-view.png)
+### 📈 Dashboard Preview
+
+<p align="center">
+  <img src="assets/dashboard-main.png" alt="Excel Dashboard Overview" width="700"/>
+  <br><em>Figure 1: Main E-Commerce Sales Dashboard</em>
+</p>
+
+<p align="center">
+  <img src="assets/charts-view.png" alt="Charts View" width="700"/>
+  <br><em>Figure 2: Product-Category and Regional Charts View</em>
+</p>
+
 
 
 ---
