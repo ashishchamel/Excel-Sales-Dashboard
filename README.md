@@ -98,7 +98,6 @@ All datasets used in this project are **open-source educational samples** or use
 No proprietary or confidential business data is published.
 
 ---
-
 ### 📂 Repository Structure
 
 Excel-Sales-Dashboard/
@@ -109,3 +108,6 @@ Excel-Sales-Dashboard/
 │ └── charts-view.png
 ├── LICENSE
 └── README.md
+
+
+
